@@ -6,7 +6,7 @@ I am a student, researcher, and computer scientist.
  - [RoLaunch](https://github.com/rajansrohit/java-rolaunch-minecraft-launcher): A new self made minecraft launcher with a built in proxy to be used in school environments or to be used cracked
 
 **🌱 I’m currently learning ...**
- - Python
+ - Node.js
  - Natural Language Processing
  - Cybersecurity
 
